@@ -10,17 +10,17 @@
 
 ---
 
-### 🔬 [이름/닉네임] | Semiconductor Process Engineer
+### 🔬 [김차민/KCM] | Semiconductor Process Engineer
 "Mastering the art of 8-inch & 12-inch wafer fabrication with Nano-scale precision."
 
-- 🔭 **Current Focus**: 차세대 반도체 **[미세 공정/수율 개선]** 프로젝트 진행 중
-- 🧪 **Expertise**: Photolithography, Etching, CVD/PVD Deposition, CMP
-- 📑 **Certification**: 반도체설계기사 / 공정 제어 전문가 자격 보유
-- ⚡ **Goal**: Yield 99.9% 달성을 위한 초미세 공정 최적화
+-  **Current Focus**: 차세대 반도체 **[미세 공정/수율 개선]** 프로젝트 진행 중
+-  **Expertise**: Photolithography, Etching, CVD/PVD Deposition, CMP
+-  **Certification**: 반도체설계기사 / 공정 제어 전문가 자격 보유
+-  **Goal**: Yield 99.9% 달성을 위한 초미세 공정 최적화
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 **[ Process Mastery ]**
 <p align="left">
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Engineering Statistics
+###  Engineering Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kcm-kau&show_icons=true&theme=tokyonight&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcm-kau&layout=compact&theme=tokyonight" width="48%">
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="mailto:내이메일@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="내링크드인주소"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

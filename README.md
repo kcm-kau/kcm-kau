@@ -15,7 +15,7 @@
 
 -  **Current Focus**: 차세대 반도체 **[미세 공정/수율 개선]** 프로젝트 진행 중
 -  **Expertise**: Photolithography, Etching, CVD/PVD Deposition, CMP
--  **Certification**: 반도체설계기사 / 공정 제어 전문가 자격 보유
+-  **Certification**: 
 -  **Goal**: Yield 99.9% 달성을 위한 초미세 공정 최적화
 
 ---
